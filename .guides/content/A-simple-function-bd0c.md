@@ -1,4 +1,4 @@
-{Run the code}(python3 run-user.py 1-intro/example2-func.py)
+{Run the code}(python3 run-user.py content/1-intro/example2-func.py)
 
 On the left is a simple example that shows a function `volumeCylinder()` that has 2 arguments.
 

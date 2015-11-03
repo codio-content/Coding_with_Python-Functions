@@ -1,20 +1,18 @@
-{Run the code}(python3 run-user.py red.py)
-
 {Check It!|assessment}(test-2339136925)
 
 |||guidance
 ### Solutions
 ```python
-input0 = input0('blue red green')
+# Get our input from the command line
+text= sys.argv[2]
 
 # Write your code here
-
 def isRed(val):
   if val.find('red') == -1:
     return False
   else:
     return True
 
-output(isRed(input0))
+print(isRed(text))
 ```
 |||

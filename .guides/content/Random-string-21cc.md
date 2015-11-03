@@ -1,15 +1,13 @@
-
-{Run the code}(python3 run-user.py random-string.py)
-
 {Check It!|assessment}(test-1824401609)
 
 |||guidance
 ### Solutions
 ```python
+# Get our arguments from the command line
+character= sys.argv[2]
+count= sys.argv[3]
 
-input0 = input0('a')
-input1 = input1(7)
-
+# Your code goes here
 def generateString(char, val):
   result = ''
   
@@ -18,7 +16,7 @@ def generateString(char, val):
 
   return result
     
-output(generateString(input0, input1))
+print(generateString(character, count))
 
 ```
 |||

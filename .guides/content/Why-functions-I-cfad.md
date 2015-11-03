@@ -1,6 +1,6 @@
 Let's look at an example of some more complex code that is badly written. We'll discuss why it's bad on the next page.
 
-{Run the code}(python3 run-user.py 1-intro/example-no-func.py)
+{Run the code}(python3 run-user.py content/1-intro/example-no-func.py)
 
 Look at the blocks of code FIRST ONE, SECOND ONE and THIRD ONE. See how they are all doing the exact same thing?
 
