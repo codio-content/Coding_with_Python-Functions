@@ -1,5 +1,8 @@
 
 # Get our input from the command line
-text= sys.argv[2]
+import sys
+text= sys.argv[1]
 
 # Write your code here
+
+

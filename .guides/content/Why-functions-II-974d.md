@@ -1,6 +1,6 @@
 Here is the some code that does the exact same thing the right way. Using a function.
 
-{Run the code}(python3 run-user.py content/1-intro/example-func.py)
+{Run the code}(python3 content/1-intro/example-func.py)
 
 ## Why is it better?
 Just look at the code on the left compared to the code on the previous page. Go back a page and look. You should immediately see how much nicer it looks. 
