@@ -1,6 +1,6 @@
 If we now look at the function `volumeCylinder()`, we'll explain how it is constructed.
 
-{Run the code}(python3 run-user.py content/1-intro/example2-func.py)
+{Run the code}(python3 content/1-intro/example2-func.py)
 
 ```python
 def volCylinder(radius, height):
