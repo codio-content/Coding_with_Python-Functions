@@ -22,7 +22,7 @@ We name a function with the same rules that apply to a variable. In this case we
 Rather like an `if` statement or a `for` loop, the function gets its own code block. It starts with a `:` and is followed ny as many lines of code as you want indented beneath it.
 
 ## Arguments
-After the function name come any *arguments* that the function receives. Some functions do not take any arguemnts.
+After the function name come any *arguments* that the function receives. Some functions do not take any arguments.
 
 You can think of an argument as a variable. In our example, the arguments are `radius` and `height`. Within your function's code block, you can now treat this argument as if it were a variable.
 
