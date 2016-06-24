@@ -1,4 +1,4 @@
-If we now look at the function `volumeCylinder()`, we'll explain how it is constructed.
+Have a look at the function `volumeCylinder()`. Below is an explanation of how this function is constructed.
 
 {Run the code}(python3 content/1-intro/example2-func.py)
 
@@ -8,7 +8,7 @@ def volCylinder(radius, height):
   return v
 ```
 
-This could also be written like this
+An alternative way to write the code would be like this:
 
 ```python
 def volCylinder(radius, height):
@@ -16,17 +16,17 @@ def volCylinder(radius, height):
 ```
 
 ## Function name
-We name a function with the same rules that apply to a variable. In this case we're calling our function `volCylinder`.
+To name a function you use the same rules that apply to a variable. In this case, the function is called `volCylinder`.
 
 ## Code block
-Rather like an `if` statement or a `for` loop, the function gets its own code block. It starts with a `:` and is followed ny as many lines of code as you want indented beneath it.
+The function gets its own code block (just like an `if` statement or a `for` loop). The block starts with a `:` and is followed by as many lines of code as you want.
 
 ## Arguments
 After the function name come any *arguments* that the function receives. Some functions do not take any arguments.
 
 You can think of an argument as a variable. In our example, the arguments are `radius` and `height`. Within your function's code block, you can now treat this argument as if it were a variable.
 
-The main thing to note here is that the calling function takes a *parameter* that maps to this argument. So, if you look at the function call ...
+The main thing to note here is that the calling function takes a *parameter* that maps to this argument. Look at the function call below as an example:
 
 ```python
 vol = volumeCylinder(10, 30)
@@ -35,8 +35,8 @@ vol = volumeCylinder(10, 30)
 - `10` is the 1st parameter and is passed to the `radius` argument of the function
 - `30` is the 2nd parameter and is passed to the `height` argument.
 
-## return
-Here is a summary of the use of the `return` statement within a function.
+## Return
+Below is a summary of the use of the `return` statement within a function:
 
 - All functions return control back to the line of code that called them whether you include an return statement or not.
 - If you don't include an explicit `return` statement in your function, then it will return when execution reaches the end of the code block.

@@ -1,4 +1,4 @@
-Let's look at an example of some more complex code that is badly written. We'll discuss why it's bad on the next page.
+Here is an example of some more complex code that is badly written. The reasons why the code is bad will be discussed on the next page.
 
 {Run the code}(python3 content/1-intro/example-no-func.py)
 

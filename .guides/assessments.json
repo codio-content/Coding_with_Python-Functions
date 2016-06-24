@@ -1,0 +1,34 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1824401609",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/random-string-test.sh",
+   "instructions": "Create a function `generateString(char, val)` that returns a string with `val` number of `char` characters concatenated together. For example `generateString('a', 7)` will return `aaaaaaa`. ",
+   "name": "Random string"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2339136925",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/red-test.sh",
+   "instructions": "Write a function `isRed()` that accepts a string  parameter and looks for the presence of the word 'red' in the string.\n\nIf it is found, return boolean `True` otherwise `False`.\n\nFinally output the result of calling the function with the value in `text`.\n\n",
+   "name": "Hunt for red"
+  }
+ }
+]

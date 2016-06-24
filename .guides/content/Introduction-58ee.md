@@ -1,6 +1,6 @@
-This Unit teaches you how to create your own functions.
+This unit teaches you how to create functions in Python.
 
-Here's a simple function
+Below you can see a simple function
 
 ```python
 import math
