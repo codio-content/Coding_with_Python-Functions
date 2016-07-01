@@ -1,1 +1,0 @@
-{Run the code}(node run-user random-integer.js)

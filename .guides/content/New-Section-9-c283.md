@@ -1,1 +1,0 @@
-{Run the code}(./read-no-func.sh)
