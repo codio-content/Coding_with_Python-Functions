@@ -1,0 +1,77 @@
+{
+ "name": "Coding_with_Python-Functions",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "58ee87fc-6ebf-f57b-3b51-e657d3b32848",
+   "pageId": "58ee87fc-6ebf-f57b-3b51-e657d3b32848",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "38876619-c44b-f650-ec60-15031a52c104",
+     "pageId": "38876619-c44b-f650-ec60-15031a52c104",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Overview",
+   "id": "26b3b9d4-dbbd-4c55-46fa-f06ce9eeda68",
+   "pageId": "26b3b9d4-dbbd-4c55-46fa-f06ce9eeda68",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "A simple function",
+     "id": "bd0c8c0b-62bc-fb4f-b11b-c0bdafef27b8",
+     "pageId": "bd0c8c0b-62bc-fb4f-b11b-c0bdafef27b8",
+     "type": "page"
+    },
+    {
+     "title": "A function in detail",
+     "id": "39396686-c152-9970-c34f-b028d6ebcb70",
+     "pageId": "39396686-c152-9970-c34f-b028d6ebcb70",
+     "type": "page"
+    },
+    {
+     "title": "Why functions I",
+     "id": "cfad9e54-393a-9e7b-ca98-c8e941da1ef2",
+     "pageId": "cfad9e54-393a-9e7b-ca98-c8e941da1ef2",
+     "type": "page"
+    },
+    {
+     "title": "Why functions II",
+     "id": "974d11c1-908e-f5e6-b498-6cf64763dc84",
+     "pageId": "974d11c1-908e-f5e6-b498-6cf64763dc84",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "e7c72e4-d5bc-3f93-bdf7-3b9f4c95b66d",
+   "pageId": "e7c72e4-d5bc-3f93-bdf7-3b9f4c95b66d",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Random string",
+     "id": "21cc8db5-6b12-14b8-5485-b4d9227e77e5",
+     "pageId": "21cc8db5-6b12-14b8-5485-b4d9227e77e5",
+     "type": "page"
+    },
+    {
+     "title": "Hunt for red",
+     "id": "ad0d128-9ecc-3f9-f6ae-93dbadf772cf",
+     "pageId": "ad0d128-9ecc-3f9-f6ae-93dbadf772cf",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "2ab662c8-2db0-dccd-faa7-9a80a7f553c7",
+     "pageId": "2ab662c8-2db0-dccd-faa7-9a80a7f553c7",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
